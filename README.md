@@ -10,8 +10,8 @@
 For this sprint, you will only be picking one of the following sets of topics:
 
 1. **Transport Protocols**: TCP, UDP, ports, Socket Programming
-2. **Domains**: DNS, Internet/World Wide Web
-3. **Applications**: FTP, Email (POP, SMTP),  SSH, Telnet
+2. **Domains**: DNS, Internet/World Wide Web, SSL, TLS, Certificates
+3. **Applications**: FTP, Email (POP, SMTP),  SSH
 
 ## Known Resources
 
