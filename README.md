@@ -9,10 +9,9 @@
 
 For this sprint, you will only be picking one of the following sets of topics:
 
-1. TCP, UDP, ports
-2. DNS, Internet/World Wide Web
-3. FTP, Email, Socket Programming
-4. Audio/Video streaming, QoS
+1. **Transport Protocols**: TCP, UDP, ports, Socket Programming
+2. **Domains**: DNS, Internet/World Wide Web
+3. **Applications**: FTP, Email (POP, SMTP),  SSH, Telnet
 
 ## Known Resources
 
@@ -21,24 +20,21 @@ You are encouraged to use the following resources, as well as seek out your own.
 - [Sprint Resources](resources.md "Resources for this Sprint")
 - [The Slack Channel](https://bereacs.slack.com/archives/C3RLWHHV4 "CSC 412 Slack Channel")
 
-## Action items
+## Sprint Expectations
 
-- **Action Item 1: Prepare**: Read and explore resources related to the sprint. Select a topic, and brainstorm ideas for build.
-- **Action Item 2: Build Plan**: Read and explore additional resources related to the two focal topics. Finalize brainstorming, and develop a plan for execution.
-- **Action Item 3: Build**: Develop your solution, maintain visibility of process between team members.
-- **Action Item 4: Build and Debug**: Final development on your solution, plan and prepare deployment.
-- **Action Item 5: Deployment and Retrospective**: Deploy your solution, complete retrospective on process and product.
+Refer to the [Syllabus](https://docs.google.com/document/d/1-YyupBHLcooYJ5Ew0uh4Iaa4U_PRmhoysCPhIsajMR4/edit#bookmark=id.pf3cftfn8tj4 "Syllabus") for the daily breakdown of each sprint.
+
+Sprint 4 will follow a similar process to previous sprints. In class, we will discuss starting the sprint on Tuesday, November 1st, or postponing the sprint start date until Thursday (to realign with our usual Thursday start date plan).
+
+Refer to the [Trello board](https://trello.com/c/P8c85lqP/43-upcoming-items "Trello Board") for due dates and expectations. 
 
 ## Assessment
 
-For full credit, by the end of the sprint you will need to have evidence of the following items:
-
+For full credit, by the end of the sprint you will need to have evidence the following items:
 - **Engagement**: Composed of your attendance in class, team meetings, stand-up meetings, and Slack communications
 - **Read and retrospective**: Composed of your sprint retrospectives, feedback on resources, reflections on process
-- **Plan**: Composed of your Trello board activity and issue queue completeness
-- **Build**: Composed of your code repository, code quality, build completeness, and code documentation
-- **Demonstration**: Composed of your Friday demonstration, including topic coverage, clarity of presentation, and how well you are addressing questions
+- **Plan**: Composed of your Peer Review and Team Product meetings
+- **Build**: Composed of your sprint topic teamwork and homework quality
+- **Learn**: Composed of your teamwork and homework completion, for the sprint topics you were not assigned
 
-Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
-
-All items should be in your Github repository before 11:55pm on Friday, March 5th.
+The [grading rubric](https://docs.google.com/document/d/1FfAv9stxBRcbP4zkIZ-Xk_SkXwxj-l731OCWSt87tjQ/edit?usp=sharing "Grading rubric") that will be used for assessment is included for your review.
